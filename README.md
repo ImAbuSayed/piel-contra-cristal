@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-contra-cristal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Piel contra cristal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-contra-cristal/) |
+| **Get License** | [Get License For Piel contra cristal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-contra-cristal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Piel contra cristal, te siento tan real
+> Tu cuerpo es un imán, no quiero escapar
+> La noche nos envuelve, no hay nada que hablar
+> Piel contra cristal, te voy a devorar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
