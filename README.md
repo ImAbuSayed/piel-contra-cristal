@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-contra-cristal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Piel contra cristal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-contra-cristal/) |
+| **Get License** | [Request Licensing for Piel contra cristal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-contra-cristal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `28ef1ff4498329fdbfa28660275c5d8c7407a4a3010f38732f27a8aea080c0a3` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel contra cristal
+
+This log tracks the cryptographic history and versioning for the song **Piel contra cristal** (piel-contra-cristal).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T09:19:54.186856 | `v1` | `28ef1ff4498329fdbfa28660275c5d8c7407a4a3010f38732f27a8aea080c0a3` | `42ae42cb43f88accb1134ea44e4079cb02107a61466167610e6b5c5791a38432` | `2026-06-20_piel-contra-cristal-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
